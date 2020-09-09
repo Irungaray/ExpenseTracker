@@ -6,3 +6,5 @@ If you're interested in purchasing the full version, send us an email to altair@
 
 Otherwise, you can use it for free!
 Enjoy!
+
+Copyright Altair Devs © 2020
